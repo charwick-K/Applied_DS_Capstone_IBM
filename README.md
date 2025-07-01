@@ -1,8 +1,3 @@
-Sure thing, KONDRU! Here's a professional and structured `README.md` file for your GitHub repository. It highlights your project title, objective, approach, execution steps, and development setup using JupyterLab:
-
----
-
-```markdown
 # 🚀 SpaceX Falcon 9 Landing Prediction – Capstone Project
 
 ## 📌 Project Overview
